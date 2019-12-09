@@ -38,11 +38,17 @@ There are details steps required and they can be found located [here](https://fa
 
 4. Do not for get to add the following in your environment path
 
+***
 export ANDROID_HOME=$HOME/Library/Android/sdk
+
 export PATH=$PATH:$ANDROID_HOME/emulator
+
 export PATH=$PATH:$ANDROID_HOME/tools
+
 export PATH=$PATH:$ANDROID_HOME/tools/bin
+
 export PATH=$PATH:$ANDROID_HOME/platform-tools
+***
 
 ### Cloning Repository
 You can either use command line or a tool that can clone this repository.
